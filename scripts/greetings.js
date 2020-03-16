@@ -1,0 +1,1 @@
+alert('Hey! welcome,Read the instructions carefully as this is not a game of Luck, even Lucky Dube said "No woman no crime",this has some rules (strings of women). Its a game that tests how fast you think, how well you spell & type and how much you know.');
